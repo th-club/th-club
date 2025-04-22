@@ -29,11 +29,20 @@ We bring together **coders**, **designers**, **tech enthusiasts**, and **dreamer
 
 ## 👑 Meet the Founders
 
+<p align="center">
+  <a href="https://github.com/aliasgarsogiawala">
+    <img src="https://github.com/aliasgarsogiawala.png" width="100" style="border-radius:50%;" alt="Aliasgar Sogiawala"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kavyachouhan">
+    <img src="https://github.com/kavyachouhan.png" width="100" style="border-radius:50%;" alt="Kavya Chouhan"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bhadraagada">
+    <img src="https://github.com/bhadraagada.png" width="100" style="border-radius:50%;" alt="Bhadra Gada"/>
+  </a>
+</p>
 
-
- [**Aliasgar Sogiawala**](https://github.com/aliasgarsogiawala) 
- [**Kavya Chouhan**](https://github.com/kavyachouhan) 
- [**Bhadra Gada**](https://github.com/bhadraagada) 
 ---
 
 ## 📫 Connect With Us
@@ -43,7 +52,6 @@ We bring together **coders**, **designers**, **tech enthusiasts**, and **dreamer
 - 📸 **Instagram**: _Coming Soon_
 
 ---
-
 
 ## ⚡ Fun Fact
 We believe that **technology isn’t just about coding — it's about creativity, impact, and collaboration**.  
