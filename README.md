@@ -29,12 +29,11 @@ We bring together **coders**, **designers**, **tech enthusiasts**, and **dreamer
 
 ## 👑 Meet the Founders
 
-| Name | Role |
-| :--- | :--- |
-| [**Aliasgar Sogiawala**](https://github.com/aliasgarsogiawala) | Co-Founder & Lead Developer |
-| [**Kavya Chouhan**](https://github.com/) | Co-Founder & Strategy Head |
-| [**Bhadra Gada**](https://github.com/) | Co-Founder & Community Manager |
 
+| :--- | :--- |
+| [**Aliasgar Sogiawala**](https://github.com/aliasgarsogiawala) 
+| [**Kavya Chouhan**](https://github.com/kavyachouhan) 
+| [**Bhadra Gada**](https://github.com/bhadraagada) 
 ---
 
 ## 📫 Connect With Us
