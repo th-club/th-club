@@ -30,10 +30,10 @@ We bring together **coders**, **designers**, **tech enthusiasts**, and **dreamer
 ## 👑 Meet the Founders
 
 
-| :--- | :--- |
-| [**Aliasgar Sogiawala**](https://github.com/aliasgarsogiawala) 
-| [**Kavya Chouhan**](https://github.com/kavyachouhan) 
-| [**Bhadra Gada**](https://github.com/bhadraagada) 
+
+ [**Aliasgar Sogiawala**](https://github.com/aliasgarsogiawala) 
+ [**Kavya Chouhan**](https://github.com/kavyachouhan) 
+ [**Bhadra Gada**](https://github.com/bhadraagada) 
 ---
 
 ## 📫 Connect With Us
