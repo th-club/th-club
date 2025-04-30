@@ -48,7 +48,7 @@ We bring together **coders**, **designers**, **tech enthusiasts**, and **dreamer
 ## 📫 Connect With Us
 - 📧 **Email**: [techhorizonsclub@gmail.com](mailto:techhorizonsclub@gmail.com)
 - 🌍 **Website**: [techhorizonsclub.com](https://techhorizonsclub.com)
-- 🗣️ **Discord**: _Coming Soon_
+- 🗣️ **Discord**: [thc](https://discord.com/channels/1315740800424083466/1316135535458255099)
 - 📸 **Instagram**: _Coming Soon_
 
 ---
